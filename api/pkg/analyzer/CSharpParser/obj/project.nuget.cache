@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEtlRP8fKwHY84eWXQgq9LZSjU01xCjHe9rP1eyT6PsFljI9NnLDRQXLpIe1G0hO9vqeRJTS2nBVbd3RWXCN6g==",
+  "success": true,
+  "projectFilePath": "/Users/andrewlazare/Projects/golang/RepoViz/api/pkg/analyzer/CSharpParser/CSharpParser.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrewlazare/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.4/microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "/Users/andrewlazare/.nuget/packages/microsoft.codeanalysis.common/4.9.2/microsoft.codeanalysis.common.4.9.2.nupkg.sha512",
+    "/Users/andrewlazare/.nuget/packages/microsoft.codeanalysis.csharp/4.9.2/microsoft.codeanalysis.csharp.4.9.2.nupkg.sha512",
+    "/Users/andrewlazare/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/andrewlazare/.nuget/packages/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg.sha512",
+    "/Users/andrewlazare/.nuget/packages/system.reflection.metadata/8.0.0/system.reflection.metadata.8.0.0.nupkg.sha512",
+    "/Users/andrewlazare/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
